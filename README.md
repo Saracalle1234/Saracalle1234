@@ -4,6 +4,6 @@ Mi enfoque combina precisión contable con una visión crítica y orientada a la
 
 Busco seguir creciendo en roles de QA funcional y automatizado, especialmente en entornos web y móviles.
 
-Herramientas:Postman | Python | SQL | Jira | Android Studio | GitHub | Pruebas manuales y automatizadas | Testing de API
+Herramientas: Postman | Python | SQL | Jira | Android Studio | GitHub | Pruebas manuales y automatizadas | Testing de API
 
-LinKedln: (https://www.linkedin.com/in/sara-calle-gallego/)
+LinKedln: https://www.linkedin.com/in/sara-calle-gallego/ 
